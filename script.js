@@ -11,7 +11,7 @@ function compute()
     }
     else
     {
-        document.getElementById("result").innerHTML="Enter a Valid Amount "
+        document.getElementById("result").innerHTML="Enter a Positive Number "
     }
 }
 function updateRate() 
